@@ -1,0 +1,6 @@
+.main {
+	--nmochea: fixed;
+	position: var(--nmochea);
+	top: 0;
+	left: 0;
+}
