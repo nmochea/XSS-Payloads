@@ -1,3 +1,4 @@
 backgroundColor=#000%3B%20position:%20fixed%3B
 pOSiTiOn: fixed;
 pOSiTiOn: FiXeD;
+<input type=text style="display:block;transition:outline 1s;" ontransitionend=alert('nmochea') id=x tabindex=1>
